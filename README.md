@@ -16,7 +16,7 @@ GET/usuarios/{id_usuario}/guardarropas/prendas
 
 id_usuario
 
-+ Cuerpos de respuesta posibles
++ Cuerpo de respuesta posible
 
 conjunto de ids de prendas
 
@@ -33,7 +33,7 @@ POST/prendas
 
 no creo que haga falta
 
-+ Cuerpos de respuesta posibles
++ Cuerpo de respuesta posible
 
 creo que no aplica, solo habria que revisar el codigo de respuesta
 
@@ -50,7 +50,7 @@ PUT/usuarios/{id_usuario}/guardarropas/prendas/{id_prenda}
 
 id_usuario e id_prenda
 
-+ Cuerpos de respuesta posibles
++ Cuerpo de respuesta posible
 
 creo que no aplica, solo habria que revisar el codigo de respuesta
 
@@ -67,7 +67,7 @@ DELETE/usuarios/{id_usuario}/guardarropas/prendas/{id_prenda}
 
 id_usuario e id_prenda
 
-+ Cuerpos de respuesta posibles
++ Cuerpo de respuesta posible
 
 creo que no aplica, solo habria que revisar el codigo de respuesta
 
@@ -84,7 +84,7 @@ GET/usuarios/{id_usuario}/eventos
 
 id_usuario
 
-+ Cuerpos de respuesta posibles
++ Cuerpo de respuesta posible
 
 conjunto de ids de eventos
 
@@ -102,7 +102,7 @@ GET/usuarios/{id_usuario}/sugerencias_de_prendas
 
 id_usuario
 
-+ Cuerpos de respuesta posibles
++ Cuerpo de respuesta posible
 
 conjunto de ids de prendas
 
